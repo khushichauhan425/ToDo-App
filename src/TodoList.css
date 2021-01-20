@@ -3,15 +3,17 @@
     font-size: 16px;
     border: 2px solid #FFF;
     width: 165px;
+    border-radius: 5px;
 }
 .todoListMain .header button {
     padding: 10px;
     font-size: 16 px;
     margin: 10px;
     margin-right: 0px;
-    background-color: #0066FF;
+    background-color:  #0066FF;
     color: #FFF;
     border: 2px solid #0066FF;
+    border-radius: 5px;
 }
 .todoListMain .header button:hover {
     background-color: #003399;
